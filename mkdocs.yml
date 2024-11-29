@@ -1,11 +1,13 @@
-ssite_name: KC Retro
-site_url: https://kc-ou.github.io/TTRPC-CLI
+site_name: TTRPG-CLI
+site_url: https://kc-ou.github.io/TTRPG-CLI
 repo_url: https://github.com/KC-OU/TTRPG-CLI
 repo_name: KC-OU/TTRPG-CLI
 
 # navigation
 nav:
   - Home: "index.md"
+  - D&D 5e:
+      - Character-Creation.md
 
 theme:
   # Theme: https://squidfunk.github.io/mkdocs-material/
