@@ -6,13 +6,13 @@ Welcome to TTRPG-CLI, your command-line companion for tabletop role-playing game
 
 ## Dungons and Dragons
 
-In the dungons and dragons, CLI tools folder, will entail basic understanding of the charcter sheets like race, class, background and allignemt but you would have to do the proficiency, leaveling and more on a sperate character sheet, digitial or paper.
+In Dungeons and Dragons, the CLI tools folder will entail a basic understanding of the character sheets like race, class, background and alignment, but you would have to do the proficiency, learning and more on a separate character sheet, digital or paper.
 
-Shop and Equipment CLI for D&D will give you the menu, so you can add homebrew, additional quest items, from adventures and more.
+Shop and Equipment CLI for D&D will give you the menu to add homebrew, quest items, adventures, and more.
 
-Monsters and Creatures CLI for D&D will give the basic or advanced understanding into the creatures and monsters, you can add homebrew content with the built-in create feature.
+Monsters and Creatures CLI for D&D will give the basic or advanced understanding of the creatures and monsters; you can add homebrew content with the built-in create feature.
 
-Spells and Magic CLI for D&D will give the basic or advanced understanding into Spells and Magic, and show you what level you need to be to use the spell or magic and you can add homebrew content with the built-in create feature.
+Spells and Magic CLI for D&D will give you a basic or advanced understanding of Spells and Magic and show you what level you need to be to use the spell or magic, and you can add homebrew content with the built-in create feature.
 
 !!! note "More is being added"
 
