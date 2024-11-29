@@ -11,3 +11,12 @@ To start creating your character, simply type the create_character command. The 
 - Background: Select a background to provide your character with a rich history and skills. Backgrounds can range from a simple Soldier to a complex Noble.
 
 Once you've completed these steps, the CLI will generate a detailed character sheet. However, it does not include your character's ability scores, skills, and proficiencies. Or the feats, spells, and Equipment due to limited knowledge of D&D, but the future will include the Equipment and spells. However, you would be unable to add ability scores, skills, and proficiencies, so you would have to do it online with D&D beyond or by paper and dice.
+
+### Images of the CLI Application
+
+![Menu-0](imgs/D&D-Character-Creation.png)
+![Menu-1](imgs/D&D-Character-Creation-1.png)
+![Menu-3](imgs/D&D-Character-Creation-3.png)
+
+![Menu-4](imgs/D&D-Character-Creation-4.png)
+![Menu-2](imgs/D&D-Character-Creation-2.png)
