@@ -1,4 +1,4 @@
-site_name: TTRPG-CLI
+site_name: TTRPG CLI
 site_url: https://kc-ou.github.io/TTRPG-CLI
 repo_url: https://github.com/KC-OU/TTRPG-CLI
 repo_name: KC-OU/TTRPG-CLI
@@ -60,4 +60,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   # - neoteroi.cards
