@@ -1,0 +1,16 @@
+{
+  "name": "123",
+  "race": "Dwarf",
+  "subrace": "Hill Dwarf",
+  "class": "Cleric",
+  "background": "Folk Hero",
+  "alignment": "Chaotic Neutral",
+  "created_at": "2024-11-30 21:38:15",
+  "currency": {
+    "pp": 0,
+    "gp": 125,
+    "ep": 0,
+    "sp": 0,
+    "cp": 0
+  }
+}
